@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+numpy
+soundfile
+torch
+torchaudio
+faster-whisper
+openai
+TTS
+python-multipart
