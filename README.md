@@ -3,7 +3,7 @@
 A fully local voice AI assistant using:
 
 - Speech-to-Text: faster-whisper
-- LLM: Ollama (Llama 3)
+- LLM
 - Text-to-Speech: Coqui XTTS v2
 - Backend: FastAPI + WebSockets
 - Frontend: HTML/CSS/JavaScript
